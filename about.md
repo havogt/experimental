@@ -8,6 +8,16 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 $$a^2+b^2=c^2$$
 
+{% highlight c++ %}
+int main()
+{
+    std::cout << "bla" << std::endl;
+}
+{% endhighlight %}
+
+{% highlight c++ %}
+{% include myfile.cpp %}
+{% endhighlight %}
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
