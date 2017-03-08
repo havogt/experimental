@@ -10,7 +10,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 ![myimg]({{ site.url }}/assets/myimg.jpg)
 
-$$a^2+b^2=c^2$$
+$$a^2+b^2=c^2+x$$
 
 {% highlight c++ %}
 int main()
