@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+[comment]: # (![image-title-here](/path/to/image.jpg){:class="img-responsive"})
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+![myimg]({{ site.url }}/assets/myimg.jpg)
 
 $$a^2+b^2=c^2$$
 
